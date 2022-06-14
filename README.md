@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 💬 Ask me about **Java, Spring Framework, AWS, Docker, Kubernetes, React, Typescript**
+- 💬 Ask me about **Java, Spring Boot, AWS, Docker, Kubernetes, React, Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
