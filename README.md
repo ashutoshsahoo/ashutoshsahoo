@@ -3,7 +3,6 @@
 
 - 💬 Ask me about **Java, Spring Boot, AWS, Docker, Kubernetes, React, Typescript**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/4768262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4768262" height="30" width="40" /></a>
 <a href="https://medium.com/@1ashutoshsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@1ashutoshsahoo" height="30" width="40" /></a>
