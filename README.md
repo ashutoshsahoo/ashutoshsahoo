@@ -14,8 +14,8 @@
 
 
 <p>
-<img align="left"  src="https://github-readme-stats.vercel.app/api?username=ashutoshsahoo&show_icons=true&locale=en" alt="ashutoshsahoo" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshsahoo&" alt="ashutoshsahoo" />
+<img align="left" width="300"  src="https://github-readme-stats.vercel.app/api?username=ashutoshsahoo&show_icons=true&locale=en" alt="ashutoshsahoo" />
+<img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshsahoo&" alt="ashutoshsahoo" />
 </p>
 
 
