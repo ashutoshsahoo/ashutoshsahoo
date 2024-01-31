@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ashutosh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hello Geeks! 👋</h1>
+<h3 align="center">I'm Ashutosh(He/Him), a passionate full stack developer from India</h3>
 
-- 💬 Ask me about **Java, Spring Boot, Hibernate, Kafka, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, React, Typescript**
+ 💬 Ask me about **Java, Spring Boot, Hibernate, Kafka, Elastic Search, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, React, Typescript**
 
 <p align="left">
 <a href="https://stackoverflow.com/users/4768262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4768262" height="30" width="40" /></a>
