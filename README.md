@@ -1,25 +1,257 @@
-<h1 align="center">Hello Geeks! 👋</h1>
-<h3 align="center">I'm Ashutosh(He/Him), a passionate full stack developer from India</h3>
+# Hi 👋 I'm Ashutosh Sahoo
 
- 💬 Ask me about **Java, Spring Boot, Hibernate, Kafka, Elastic Search, PostgreSQL, MongoDB, AWS, Docker, Kubernetes, React, Typescript**
+### Engineering Leader | GenAI & LLM | Distributed Systems | Cloud-Native Architecture
 
-<p align="left">
-<a href="https://stackoverflow.com/users/4768262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4768262" height="30" width="40" /></a>
-<a href="https://medium.com/@1ashutoshsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@1ashutoshsahoo" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ashutoshsahoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ashutoshsahoo" height="30" width="40" /></a>
-</p>
+I am an engineering leader focused on building **scalable backend platforms, distributed systems and AI-powered applications**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+My technical interests span **Generative AI, LLM applications, Agentic AI, RAG, AI platforms, distributed systems and cloud-native architecture**.
 
+I enjoy turning complex business problems into **reliable, scalable and observable engineering systems** and building high-performing engineering teams around them.
 
-<p>
-<img align="left" width="300"  src="https://github-readme-stats.vercel.app/api?username=ashutoshsahoo&show_icons=true&locale=en" alt="ashutoshsahoo" />
-<img align="center" width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshsahoo&" alt="ashutoshsahoo" />
-</p>
+---
 
+## 🤖 AI Engineering
 
-<!---
-ashutoshsahoo/ashutoshsahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Generative AI & LLM Applications
+
+`LLMs` `Generative AI` `RAG` `Agentic AI` `AI Agents`  
+`Tool Calling` `Function Calling` `Structured Outputs`  
+`Prompt Engineering` `Context Engineering` `LLM Applications`
+
+### Retrieval & Knowledge Systems
+
+`Embeddings` `Vector Databases` `Vector Search`  
+`Semantic Search` `Hybrid Search` `Reranking`  
+`Knowledge Bases` `Document Intelligence`
+
+### AI Agent Architecture
+
+`AI Agents` `Agent Orchestration` `Tool Use`  
+`MCP` `Model Context Protocol` `Multi-Agent Systems`  
+`Agent Memory` `Planning` `Reasoning` `Workflow Automation`
+
+### Production AI
+
+`LLM Evaluation` `AI Observability` `LLM Monitoring`  
+`Guardrails` `Hallucination Mitigation` `Prompt Evaluation`  
+`Token Optimization` `Latency Optimization` `AI Cost Optimization`  
+`Model Routing` `Fallback Models` `AI Reliability`
+
+### AI Infrastructure
+
+`LLM Gateway` `LLM Serving` `Local LLMs`  
+`Inference Optimization` `Model Quantization`  
+`Streaming` `GPU Inference` `Model Routing`
+
+### Models & AI Platforms
+
+**Enterprise / Cloud Models**
+
+`OpenAI ChatGPT`
+`Anthropic Claude`  
+`Google Gemini`  
+`xAI Grok`
+
+**Open & Local Models**
+
+`Qwen` `Llama` `Mistral`  
+`DeepSeek` `Gemma`  
+`Ollama`
+
+**AI Developer Tools**
+
+`Claude Code` `Cursor` `Aider` `AI-assisted Software Engineering`  
+`AI Coding Agents` `LLM-powered Developer Tools`
+
+---
+
+## ☕ Backend Engineering
+
+**Languages**
+
+`Java` `SQL` `Python`
+
+**Frameworks**
+
+`Spring Boot` `Spring Security` `Spring Data`  
+`Hibernate` `REST APIs` `GraphQL`
+
+**Distributed Systems**
+
+`Microservices` `Event-Driven Architecture`  
+`Kafka` `RabbitMQ` `Distributed Caching`  
+`Async Processing` `Resilience Patterns`
+
+---
+
+## 🐘 Data & Storage
+
+`PostgreSQL` `Redis` `MongoDB`
+
+Areas of interest:
+
+- Database scalability
+- Query optimization
+- Replication
+- Read/write scaling
+- Partitioning
+- Connection pooling
+- Distributed caching
+- High-throughput data access
+
+---
+
+## ☸️ Cloud-Native & Platform Engineering
+
+`Kubernetes` `Docker` `Helm`  
+`AWS` `Istio` `Kong`  
+`Cloud-Native Architecture` `Service Mesh`
+
+### Platform Engineering
+
+- Containerized applications
+- Kubernetes-based platforms
+- API gateways
+- Service-to-service communication
+- Configuration & secrets management
+- Autoscaling
+- Resilience engineering
+
+---
+
+## 📊 Observability & Reliability
+
+`OpenTelemetry` `Prometheus` `Grafana`
+
+Focus areas:
+
+- Distributed tracing
+- Metrics & monitoring
+- Application performance
+- SLO / SLI
+- Error budgets
+- Production diagnostics
+- Performance engineering
+- Reliability engineering
+
+---
+
+## 🔐 Security
+
+`Spring Security` `OAuth2` `JWT`  
+`API Security` `Authentication & Authorization`  
+`Secrets Management` `Vault`
+
+---
+
+## 👨‍💻 Engineering Leadership
+
+I enjoy building **high-performing engineering teams** and translating business requirements into scalable technical solutions.
+
+My leadership interests include:
+
+- AI-native product development
+- GenAI platform strategy
+- AI engineering architecture
+- Distributed systems
+- Cloud-native engineering
+- Developer productivity
+- Engineering excellence
+- Reliability & observability
+- Technical strategy
+- Architecture & design reviews
+- Engineering mentorship
+- Building strong engineering culture
+
+---
+
+## 🧠 Current Areas of Exploration
+
+I'm currently exploring:
+
+- **AI Agents & Agentic AI**
+- **RAG architectures**
+- **MCP and tool-based AI systems**
+- **LLM evaluation & observability**
+- **Local LLMs and inference**
+- **AI coding agents**
+- **AI-assisted software engineering**
+- **Enterprise GenAI platforms**
+- **LLM gateways and model routing**
+- **Production AI reliability & cost optimization**
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI & GenAI
+
+**Enterprise RAG Platform**  
+RAG pipeline covering embeddings, vector search, hybrid retrieval, reranking and LLM evaluation.
+
+**Agentic AI Platform**  
+Tool-calling AI agents with MCP, memory, orchestration and enterprise integrations.
+
+**LLM Gateway**  
+Enterprise gateway for model routing, authentication, rate limiting, token tracking, cost optimization and observability.
+
+### ☁️ Cloud & Distributed Systems
+
+**Cloud-Native Spring Boot Platform**  
+Spring Boot microservices deployed on Kubernetes with Kafka, PostgreSQL, Redis, observability and resilience patterns.
+
+**PostgreSQL Scaling & Performance Lab**  
+Experiments around partitioning, replication, connection pooling, read scaling and high-throughput workloads.
+
+---
+
+## 🛠️ Technology Stack
+
+### Backend
+`Java` `Spring Boot` `Spring Security` `Hibernate`
+
+### AI / GenAI
+`RAG` `LLMs` `AI Agents` `MCP` `Tool Calling`  
+`Embeddings` `Vector Search` `Reranking` `LLM Evaluation`
+
+### AI Models
+`GPT` `Claude` `Gemini` `Grok`  
+`Qwen` `Llama` `Mistral` `DeepSeek` `Gemma`
+
+### Data
+`PostgreSQL` `Redis` `MongoDB`
+
+### Messaging
+`Kafka` `RabbitMQ`
+
+### Cloud & Platform
+`Kubernetes` `Docker` `AWS` `Helm` `Istio` `Kong`
+
+### Observability
+`OpenTelemetry` `Prometheus` `Grafana`
+
+### Security
+`OAuth2` `JWT` `Vault` `Spring Security`
+
+### Developer Productivity
+`Ollama` `Aider` `AI Coding Agents`
+
+---
+
+## 📈 Engineering Philosophy
+
+> **Build systems that scale. Make them observable. Keep them simple.**
+
+I believe great engineering combines:
+
+**Strong architecture + pragmatic technology + reliable systems + high-performing teams + continuous learning.**
+
+---
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/ashutoshsahoo/) · [Stack Overflow](https://stackoverflow.com/users/4768262/ashutosh)
+
+---
+
+⭐ Feel free to explore my repositories and experiments around **AI Engineering, Distributed Systems and Cloud-Native Architecture**.
