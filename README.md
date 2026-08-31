@@ -1,3 +1,86 @@
+# 👋 Hello, I'm Ashutosh Sahoo!
+### 🚀 Backend & Distributed Systems Engineer | Full-Stack Developer | Engineering Leader
+
+An India-based Software Engineer passionate about building scalable, high-performance distributed systems, microservice architectures, and robust cloud infrastructure.
+
+- 🔭 **Current Focus:** Advanced Microservices, Kafka Event Streaming, and Kubernetes Orchestration.
+- 💬 **Ask me about:** Java, Spring Boot, Distributed Systems, Cloud Infrastructure, and Database Optimization.
+- 📫 **Connect with me:** [LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio/Website](YOUR_WEBSITE_URL)
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+#### 🔹 Core Backend & Frameworks
+![Java](https://shields.io)
+![Spring Boot](https://shields.io)
+![Hibernate](https://shields.io)
+![Node.js](https://shields.io)
+![Express.js](https://shields.io)
+![Python](https://shields.io)
+
+#### 🔹 Messaging & Data Layers
+![Apache Kafka](https://shields.io)
+![Elasticsearch](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MongoDB](https://shields.io)
+![Redis](https://shields.io)
+![MySQL](https://shields.io)
+
+#### 🔹 DevOps, Cloud & Containerization
+![AWS](https://shields.io)
+![Docker](https://shields.io)
+![Kubernetes](https://shields.io)
+![Jenkins](https://shields.io)
+![Nginx](https://shields.io)
+![Git](https://shields.io)
+
+#### 🔹 Frontend UI Engineering
+![React](https://shields.io)
+![TypeScript](https://shields.io)
+![JavaScript](https://shields.io)
+![Angular](https://shields.io)
+
+---
+
+### 📊 GitHub Dynamics
+
+<p align="left">
+  <img src="https://vercel.app" height="150" alt="GitHub Stats" />
+  <img src="https://vercel.app" height="150" alt="Top Languages" />
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hello Geeks! 👋</h1>
 <h3 align="center">I'm Ashutosh(He/Him), a passionate full stack developer from India</h3>
 
