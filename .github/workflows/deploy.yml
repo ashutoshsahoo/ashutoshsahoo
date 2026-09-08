@@ -1,0 +1,22 @@
+name: Sync Website to Pages Repo
+
+on:
+  push:
+    branches:
+      - main # Triggers on any push to the main branch, regardless of folder
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Deploy to external repository
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.SYNC_TOKEN }}
+          external_repository: ashutoshsahoo/ashutoshsahoo.github.io
+          publish_branch: main
+          publish_dir: . # Pushes the entire root directory instead of just a specific folder
+          commit_message: "Auto-sync from profile repository"

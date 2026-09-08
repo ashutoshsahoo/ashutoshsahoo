@@ -10,6 +10,37 @@ I enjoy turning complex business problems into **reliable, scalable and observab
 
 ---
 
+## 📈 Engineering Philosophy
+
+> **Build systems that scale. Make them observable. Keep them simple.**
+
+I believe great engineering combines:
+
+**Strong architecture + pragmatic technology + reliable systems + high-performing teams + continuous learning.**
+
+---
+
+## 👨‍💻 Engineering Leadership
+
+I enjoy building **high-performing engineering teams** and translating business requirements into scalable technical solutions.
+
+My leadership interests include:
+
+- AI-native product development
+- GenAI platform strategy
+- AI engineering architecture
+- Distributed systems
+- Cloud-native engineering
+- Developer productivity
+- Engineering excellence
+- Reliability & observability
+- Technical strategy
+- Architecture & design reviews
+- Engineering mentorship
+- Building strong engineering culture
+
+---
+
 ## 🤖 AI Engineering
 
 ### Generative AI & LLM Applications
@@ -144,27 +175,6 @@ Focus areas:
 
 ---
 
-## 👨‍💻 Engineering Leadership
-
-I enjoy building **high-performing engineering teams** and translating business requirements into scalable technical solutions.
-
-My leadership interests include:
-
-- AI-native product development
-- GenAI platform strategy
-- AI engineering architecture
-- Distributed systems
-- Cloud-native engineering
-- Developer productivity
-- Engineering excellence
-- Reliability & observability
-- Technical strategy
-- Architecture & design reviews
-- Engineering mentorship
-- Building strong engineering culture
-
----
-
 ## 🧠 Current Areas of Exploration
 
 I'm currently exploring:
@@ -235,16 +245,6 @@ Experiments around partitioning, replication, connection pooling, read scaling a
 
 ### Developer Productivity
 `Ollama` `Aider` `AI Coding Agents`
-
----
-
-## 📈 Engineering Philosophy
-
-> **Build systems that scale. Make them observable. Keep them simple.**
-
-I believe great engineering combines:
-
-**Strong architecture + pragmatic technology + reliable systems + high-performing teams + continuous learning.**
 
 ---
 
