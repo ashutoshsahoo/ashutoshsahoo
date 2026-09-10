@@ -1,12 +1,10 @@
-# Hi 👋 I'm Ashutosh Sahoo
+# 👋 About Me
 
-### Engineering Leader | GenAI & LLM | Distributed Systems | Cloud-Native Architecture
+![Role](https://img.shields.io/badge/Role-Senior%20Engineering%20Manager-blue) ![Experience](https://img.shields.io/badge/Experience-15%2B%20yrs%20(5%2B%20in%20leadership)-informational) ![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-lightgrey)
 
-I am an engineering leader focused on building **scalable backend platforms, distributed systems and AI-powered applications**.
+Engineering leader with **15+ years in backend engineering, 5+ years in leadership roles**, currently a **Senior Engineering Manager** directing a cross-functional team of **20+ engineers**. I build scalable backend platforms and distributed systems, and translate business strategy into engineering roadmaps that ship measurable, large-scale impact across international markets.
 
-My technical interests span **Generative AI, LLM applications, Agentic AI, RAG, AI platforms, distributed systems and cloud-native architecture**.
-
-I enjoy turning complex business problems into **reliable, scalable and observable engineering systems** and building high-performing engineering teams around them.
+I've extended that same focus into **AI-powered applications and GenAI platforms**, applying the same principles of reliability, observability and simplicity to LLM-based systems — including AI-driven product features and GenAI-assisted engineering workflows.
 
 ---
 
@@ -14,244 +12,92 @@ I enjoy turning complex business problems into **reliable, scalable and observab
 
 > **Build systems that scale. Make them observable. Keep them simple.**
 
-I believe great engineering combines:
-
-**Strong architecture + pragmatic technology + reliable systems + high-performing teams + continuous learning.**
-
----
-
-## 👨‍💻 Engineering Leadership
-
-I enjoy building **high-performing engineering teams** and translating business requirements into scalable technical solutions.
-
-My leadership interests include:
-
-- AI-native product development
-- GenAI platform strategy
-- AI engineering architecture
-- Distributed systems
-- Cloud-native engineering
-- Developer productivity
-- Engineering excellence
-- Reliability & observability
-- Technical strategy
-- Architecture & design reviews
-- Engineering mentorship
-- Building strong engineering culture
+Great engineering organizations combine:
+**strong architecture + pragmatic technology choices + reliable systems + high-performing teams + continuous learning.**
 
 ---
 
-## 🤖 AI Engineering
+## 👨‍💼 Leadership Focus
 
-### Generative AI & LLM Applications
-
-`LLMs` `Generative AI` `RAG` `Agentic AI` `AI Agents`  
-`Tool Calling` `Function Calling` `Structured Outputs`  
-`Prompt Engineering` `Context Engineering` `LLM Applications`
-
-### Retrieval & Knowledge Systems
-
-`Embeddings` `Vector Databases` `Vector Search`  
-`Semantic Search` `Hybrid Search` `Reranking`  
-`Knowledge Bases` `Document Intelligence`
-
-### AI Agent Architecture
-
-`AI Agents` `Agent Orchestration` `Tool Use`  
-`MCP` `Model Context Protocol` `Multi-Agent Systems`  
-`Agent Memory` `Planning` `Reasoning` `Workflow Automation`
-
-### Production AI
-
-`LLM Evaluation` `AI Observability` `LLM Monitoring`  
-`Guardrails` `Hallucination Mitigation` `Prompt Evaluation`  
-`Token Optimization` `Latency Optimization` `AI Cost Optimization`  
-`Model Routing` `Fallback Models` `AI Reliability`
-
-### AI Infrastructure
-
-`LLM Gateway` `LLM Serving` `Local LLMs`  
-`Inference Optimization` `Model Quantization`  
-`Streaming` `GPU Inference` `Model Routing`
-
-### Models & AI Platforms
-
-**Enterprise / Cloud Models**
-
-`OpenAI ChatGPT`
-`Anthropic Claude`  
-`Google Gemini`  
-`xAI Grok`
-
-**Open & Local Models**
-
-`Qwen` `Llama` `Mistral`  
-`DeepSeek` `Gemma`  
-`Ollama`
-
-**AI Developer Tools**
-
-`Claude Code` `Cursor` `Aider` `AI-assisted Software Engineering`  
-`AI Coding Agents` `LLM-powered Developer Tools`
+- Directing and scaling cross-functional engineering teams
+- Translating business KPIs into actionable, high-impact engineering roadmaps
+- Architectural oversight for scalable, secure, highly-available platforms
+- Engineering excellence, reliability and observability as org-wide practices
+- Process optimization — removing bottlenecks, streamlining agile delivery
+- Mentorship, career pathing and upskilling engineering talent
+- GenAI platform strategy and AI-native product development
 
 ---
 
-## ☕ Backend Engineering
+## 🚀 Impact Highlights
 
-**Languages**
-
-`Java` `SQL` `Python`
-
-**Frameworks**
-
-`Spring Boot` `Spring Security` `Spring Data`  
-`Hibernate` `REST APIs` `GraphQL`
-
-**Distributed Systems**
-
-`Microservices` `Event-Driven Architecture`  
-`Kafka` `RabbitMQ` `Distributed Caching`  
-`Async Processing` `Resilience Patterns`
+- **Leadership & Scale** — Directed and scaled a high-performing, cross-functional engineering team of 20+ engineers.
+- **Product Delivery** — Spearheaded development and rollout of multiple high-impact digital products with robust performance and seamless UX.
+- **Revenue Generation** — Drove significant revenue growth by conceptualizing and launching new AI-powered product lines.
+- **Global Impact** — Expanded product capabilities to serve a large-scale user base across multiple international markets.
+- **Process Optimization** — Boosted team goal completion rates by **25%** by removing technical bottlenecks, streamlining agile workflows, and deploying Cursor for GenAI-assisted development.
+- **Business Alignment** — Partnered closely with product and business stakeholders to turn strategic KPIs into engineering roadmaps.
+- **Architectural Oversight** — Provided end-to-end architectural leadership for scalable, secure, highly-available platforms.
+- **Talent Development** — Cultivated a culture of engineering excellence through mentoring, clear career development paths, and upskilling.
 
 ---
 
-## 🐘 Data & Storage
+## 🛠️ Technical Expertise
 
-`PostgreSQL` `Redis` `MongoDB`
+### Backend & Distributed Systems
 
-Areas of interest:
+`Java` `Spring Boot` `Spring Security` `Hibernate` `Python` `Node.js`
+`REST APIs` `GraphQL` `Microservices` `Event-Driven Architecture`
+`Kafka` `RabbitMQ` `ActiveMQ` `Async Processing` `Resilience Patterns`
 
-- Database scalability
-- Query optimization
-- Replication
-- Read/write scaling
-- Partitioning
-- Connection pooling
-- Distributed caching
-- High-throughput data access
+### Frontend
 
----
+`React` `Angular` `Thymeleaf`
 
-## ☸️ Cloud-Native & Platform Engineering
+### Data & Storage
 
-`Kubernetes` `Docker` `Helm`  
-`AWS` `Istio` `Kong`  
-`Cloud-Native Architecture` `Service Mesh`
+`PostgreSQL` `Oracle` `MongoDB` `Cassandra` `DynamoDB` `Redis` `Hazelcast`
 
-### Platform Engineering
+Areas of interest: database scalability, query optimization, replication, partitioning, connection pooling, distributed caching, high-throughput data access.
 
-- Containerized applications
-- Kubernetes-based platforms
-- API gateways
-- Service-to-service communication
-- Configuration & secrets management
-- Autoscaling
-- Resilience engineering
+### Cloud-Native & Platform Engineering
 
----
+`Kubernetes` `Docker` `Helm` `AWS` `Azure` `Istio` `Kong`
 
-## 📊 Observability & Reliability
+Focus areas: containerized platforms, API gateways, service-to-service communication, configuration & secrets management, autoscaling, resilience engineering.
 
-`OpenTelemetry` `Prometheus` `Grafana`
+### Observability & Reliability
 
-Focus areas:
+`OpenTelemetry` `Prometheus` `Grafana` `ELK`
 
-- Distributed tracing
-- Metrics & monitoring
-- Application performance
-- SLO / SLI
-- Error budgets
-- Production diagnostics
-- Performance engineering
-- Reliability engineering
-
----
-
-## 🔐 Security
-
-`Spring Security` `OAuth2` `JWT`  
-`API Security` `Authentication & Authorization`  
-`Secrets Management` `Vault`
-
----
-
-## 🧠 Current Areas of Exploration
-
-I'm currently exploring:
-
-- **AI Agents & Agentic AI**
-- **RAG architectures**
-- **MCP and tool-based AI systems**
-- **LLM evaluation & observability**
-- **Local LLMs and inference**
-- **AI coding agents**
-- **AI-assisted software engineering**
-- **Enterprise GenAI platforms**
-- **LLM gateways and model routing**
-- **Production AI reliability & cost optimization**
-
----
-
-## 📌 Featured Projects
-
-### 🤖 AI & GenAI
-
-**Enterprise RAG Platform**  
-RAG pipeline covering embeddings, vector search, hybrid retrieval, reranking and LLM evaluation.
-
-**Agentic AI Platform**  
-Tool-calling AI agents with MCP, memory, orchestration and enterprise integrations.
-
-**LLM Gateway**  
-Enterprise gateway for model routing, authentication, rate limiting, token tracking, cost optimization and observability.
-
-### ☁️ Cloud & Distributed Systems
-
-**Cloud-Native Spring Boot Platform**  
-Spring Boot microservices deployed on Kubernetes with Kafka, PostgreSQL, Redis, observability and resilience patterns.
-
-**PostgreSQL Scaling & Performance Lab**  
-Experiments around partitioning, replication, connection pooling, read scaling and high-throughput workloads.
-
----
-
-## 🛠️ Technology Stack
-
-### Backend
-`Java` `Spring Boot` `Spring Security` `Hibernate`
-
-### AI / GenAI
-`RAG` `LLMs` `AI Agents` `MCP` `Tool Calling`  
-`Embeddings` `Vector Search` `Reranking` `LLM Evaluation`
-
-### AI Models
-`GPT` `Claude` `Gemini` `Grok`  
-`Qwen` `Llama` `Mistral` `DeepSeek` `Gemma`
-
-### Data
-`PostgreSQL` `Redis` `MongoDB`
-
-### Messaging
-`Kafka` `RabbitMQ`
-
-### Cloud & Platform
-`Kubernetes` `Docker` `AWS` `Helm` `Istio` `Kong`
-
-### Observability
-`OpenTelemetry` `Prometheus` `Grafana`
+Focus areas: distributed tracing, SLO/SLI, error budgets, production diagnostics, performance engineering.
 
 ### Security
-`OAuth2` `JWT` `Vault` `Spring Security`
 
-### Developer Productivity
-`Ollama` `Aider` `AI Coding Agents`
+`OAuth2` `JWT` `SAML` `SSO` `Vault`
+
+Focus areas: authentication & authorization, API security, secrets management.
+
+### AI / GenAI — Platform & Strategy
+
+Led GenAI platform strategy spanning AI-driven product features, RAG and agentic tooling, and LLM gateway infrastructure — plus adoption of AI-assisted development (Cursor) to raise team productivity.
+
+Core areas: `LLMs` `RAG` `AI Agents` `MCP` `LLM Gateway & Model Routing` `LLM Evaluation`.
+
+Models & platforms: Claude, GPT, Gemini, Grok, plus open/local models (Llama, Qwen, Mistral, DeepSeek, Gemma via Ollama).
+
+---
+
+## 🎯 Currently Focused On
+
+Scaling AI-driven products across international markets, and growing GenAI-assisted engineering practices across the team — from AI-powered product features to LLM platform infrastructure.
 
 ---
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/ashutoshsahoo/) · [Stack Overflow](https://stackoverflow.com/users/4768262/ashutosh)
+[GitHub](https://github.com/ashutoshsahoo) · [LinkedIn](https://www.linkedin.com/in/ashutoshsahoo/) · [Stack Overflow](https://stackoverflow.com/users/4768262/ashutosh)
 
 ---
 
-⭐ Feel free to explore my repositories and experiments around **AI Engineering, Distributed Systems and Cloud-Native Architecture**.
+⭐ Exploring engineering leadership, distributed systems and enterprise AI platforms — feel free to browse my repositories and experiments.
